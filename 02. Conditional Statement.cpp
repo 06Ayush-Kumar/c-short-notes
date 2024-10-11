@@ -9,6 +9,7 @@ cout<<"no";
 }
 
 if(a>=b && c>=e){}  // will be executed only when both are true 
+else if(a<b){}   // if if() if not executed then else if will be tested
 
 // dynamic declaration:basically limiting the scope of a variable
 
